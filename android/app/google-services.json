@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "629592719429",
+    "firebase_url": "https://wallpaperhaven-b1118.firebaseio.com",
+    "project_id": "wallpaperhaven-b1118",
+    "storage_bucket": "wallpaperhaven-b1118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629592719429:android:68322c8e38ecb0062be32c",
+        "android_client_info": {
+          "package_name": "com.example.wallpaper_haven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629592719429-nbohecfavdjg8rfffnt3o97dgi726r97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1oUU9RpUxTWtFDiJxuXHRmnYvFu00gUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629592719429-nbohecfavdjg8rfffnt3o97dgi726r97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4177682124453594~2968349087"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629592719429:android:5f56150e62b4d5ee2be32c",
+        "android_client_info": {
+          "package_name": "com.reborn.wallpaperhaven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629592719429-nbohecfavdjg8rfffnt3o97dgi726r97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1oUU9RpUxTWtFDiJxuXHRmnYvFu00gUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629592719429-nbohecfavdjg8rfffnt3o97dgi726r97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+#Tue Oct 20 12:30:56 IST 2020
+base.0=D\:\\wallpaper_haven\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
